@@ -30,7 +30,7 @@
 * **Call 911**
 
 # Etape 4:
-1. Annuler le commit de merge (`git reset --hard HEAD^`)
+1. Annuler le commit de merge (`git revert HEAD`)
 * Retourner sur `votre_nom`
 * Mettre à jour `votre_nom` par rapport à `develop`
 * Aller sur `develop`
